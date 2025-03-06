@@ -31,7 +31,6 @@ To convert pascals to millimeters of mercury, you divide the pressure in pascals
 The main application code, including initialization, data reading, and console output.
 
 ```c
-// filepath: /home/pavlo/Documents/PlatformIO/Projects/BMP280-driver/src/main.c
 #include "ch32fun.h"
 #include "bmp280.h"
 
