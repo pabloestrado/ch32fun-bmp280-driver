@@ -10,7 +10,7 @@ This project demonstrates how to use the BMP280 temperature and pressure sensor 
 ## Hardware Requirements
 
 - CH32V003 microcontroller
-- BMP280 temperature and humidity sensor module
+- BMP280 temperature and pressure sensor module
 
 ## Usage
 
